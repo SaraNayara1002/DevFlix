@@ -1,0 +1,32 @@
+table{
+	width: 500px;
+	border: 1px solid #8F14EE;
+}
+
+tr, td, th{
+	border: 1px solid #D00FF3;
+	text-align: center;
+
+}
+th{
+	background-color: #E600B8;
+}
+
+td{
+	background-color: #F296F5;
+}
+
+.tabela2 {
+	width: 500px;
+	border: 2px dashed #19BFC1;
+}
+
+.tabela2 th{
+	border:2px dashed;
+	background-color:#83E2F3; 
+}
+.tabela2 td{
+	border:2px dashed;
+	background-color:#1FC8D3 ;
+}
+
